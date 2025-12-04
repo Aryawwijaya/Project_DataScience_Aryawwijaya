@@ -1,8 +1,0 @@
-Data Science Project – Medical Cost Prediction (06/2025)
-Tools : Python, Pandas, Scikit-Learn, Matplotlib
-
-- Membangun model machine learning (Linear Regression) untuk memprediksi biaya medis individu berdasarkan data demografis dan gaya hidup.
-- Melakukan data preprocessing lengkap: pemeriksaan kualitas data, pembersihan duplikat, deteksi & penanganan outlier, encoding kategorikal, normalisasi fitur, serta rekayasa fitur (feature engineering).
-- Melakukan eksplorasi data (EDA) melalui statistik deskriptif, visualisasi korelasi, histogram, dan boxplot untuk memahami karakteristik data dan relasi antar fitur.
-- Mengembangkan model prediksi menggunakan scikit-learn, termasuk data splitting, training, evaluasi (MAE, MSE, RMSE, R², MAPE), serta pengujian dengan data riil.
-- Model menghasilkan akurasi prediksi ~79.17%, menunjukkan performa yang cukup baik untuk estimasi biaya medis pada domain asuransi dan kesehatan.
